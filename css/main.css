@@ -11,3 +11,4 @@ p {font-family: 'Montserrat', sans-serif; color: #060606; font-size: 23pt;}
 #link:hover {font-size: 23pt;color: #060606;font-family: 'Merriweather';padding-left: 8px;padding-right: 8px;border-left: 0px solid #e23333;text-decoration: none;transition-duration: 0.25;border-bottom: 4px solid #e23333;transition-duration: 0.25s;}
 .blockT {padding: 7px;border-left: 4px solid #e23333;border-top: 2px solid #e23333;}
 .blockT h1 {border-left: 0px solid black;}
+@media screen and (max-width: 900px;) {h1 {font-family: 'Merriweather', sans-serif; color: #060606; font-size: 23pt;padding-left: 8px;border-left: 4px solid #e23333;}p {font-family: 'Montserrat', sans-serif; color: #060606; font-size: 17pt;}}
